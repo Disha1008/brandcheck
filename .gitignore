@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+backend/.venv/
+backend/venv/
+backend/.env
+backend/brandcheck.db
+backend/uploads/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

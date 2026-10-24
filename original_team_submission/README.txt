@@ -1,0 +1,1 @@
+This folder is the exact original ZIP submitted by the user, extracted without modifications for preservation. The active extended application is in the parent project's backend/ and frontend/ folders.

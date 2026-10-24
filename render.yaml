@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: brandcheck
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DATABASE_URL
+        value: sqlite:///./brandcheck.db
