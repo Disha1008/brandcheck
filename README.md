@@ -1,6 +1,6 @@
 BrandCheck — Explainable AI Brand Governance
 	
-Live demo	LIVE_URL_HERE (free hosting: the first load can take up to ~60 s, and data created by visitors may reset when the server sleeps)
+Live demo	https://brandcheck-yhds.onrender.com/ (free hosting: the first load can take up to ~60 s, and data created by visitors may reset when the server sleeps)
 Demo logins	creator@freshsip.com / creator123 · reviewer@freshsip.com / reviewer123 · admin@freshsip.com / admin123
 Team	FOUR MINDS, Thakur College of Engineering and Technology
 Event	Inkloom AI problem statement, Round 2: The Build
